@@ -1,4 +1,8 @@
 Hervas
 sdad
 sadads
+<<<<<<< HEAD
 usuari2
+=======
+usuari1
+>>>>>>> 22399c34b53e04aa4d830c7073847a263e5cb46b
